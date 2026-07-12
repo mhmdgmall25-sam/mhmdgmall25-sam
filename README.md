@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 HI IT's YOUR SAM 👋 
-  <img width="900" height="220" alt="header (3)" src="https://github.com/user-attachments/assets/0b72cd3d-14ac-4116-8d67-67d8d00301af" />
-  <svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <img width="900" height="350" alt="header (3)" src="https://github.com/user-attachments/assets/0b72cd3d-14ac-4116-8d67-67d8d00301af" />
+  <svg width="900" height="350" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#1f2937"/>
@@ -16,7 +16,7 @@
   <rect x="0" y="0" width="900" height="6" fill="url(#accent)"/>
 
   <text x="60" y="95" font-family="Segoe UI, Verdana, sans-serif" font-size="42" font-weight="700" fill="#f8fafc">
-    Mohammed Elballat
+    MhmdGmall-SAM
   </text>
   <text x="60" y="130" font-family="Segoe UI, Verdana, sans-serif" font-size="24" font-weight="600" fill="#38bdf8">
     (SAM)
@@ -28,7 +28,7 @@
 
   <g transform="translate(770,40)">
     <circle cx="0" cy="0" r="35" fill="none" stroke="#38bdf8" stroke-width="3" opacity="0.6"/>
-    <text x="0" y="8" font-family="Segoe UI, Verdana, sans-serif" font-size="26" font-weight="700" fill="#f8fafc" text-anchor="middle">SAM</text>
+    <text x="0" y="8" font-family="Segoe UI, Verdana, sans-serif" font-size="26" font-weight="700" fill="#f8fafc" text-anchor="middle"></text>
   </g>
 </svg>
 
