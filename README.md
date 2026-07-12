@@ -1,4 +1,5 @@
-<h1 align="center"> 👋 HI IT's YOUR SAM 👋<img width="900" height="220" alt="header (3)" src="https://github.com/user-attachments/assets/0b72cd3d-14ac-4116-8d67-67d8d00301af" />
+<h1 align="center"> 👋 HI IT's YOUR SAM 👋 
+  <img width="900" height="220" alt="header (3)" src="https://github.com/user-attachments/assets/0b72cd3d-14ac-4116-8d67-67d8d00301af" />
   <svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -31,7 +32,6 @@
   </g>
 </svg>
 
-  <img src="./header.svg" alt="header"/>
 </div>
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
